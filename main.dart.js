@@ -71249,7 +71249,7 @@ A.ud.prototype={}
 A.Xm.prototype={}
 A.Xl.prototype={}
 A.Fz.prototype={
-L(a){return new A.uT($.amz(),"/under-construction","Nebwin Tech",!1,null)}}
+L(a){return new A.uT($.amz(),"/","Nebwin Tech",!1,null)}}
 A.a15.prototype={
 $1(a){return B.NJ},
 $S:420}
@@ -76879,7 +76879,7 @@ q.toString
 return q})
 s($,"aBX","anl",()=>A.als().querySelector("base"))
 s($,"aDF","aom",()=>new A.a_n(A.y(t.N,A.a2("ac<bL?>?(bL?)"))))
-r($,"aAF","amz",()=>A.ax(["/under-construction",new A.a15()],t.N,A.a2("j(a8)")))
+r($,"aAF","amz",()=>A.ax(["/",new A.a15()],t.N,A.a2("j(a8)")))
 s($,"aAu","afX",()=>A.ahi())
 s($,"aBd","amV",()=>new A.C())})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
